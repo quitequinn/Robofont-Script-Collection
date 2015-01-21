@@ -1,0 +1,42 @@
+[submodule "danmilne"]
+	path = danmilne
+	url = https://github.com/danmilne/RoboFont
+[submodule "jenskutilek"]
+	path = jenskutilek
+	url = https://github.com/jenskutilek/RoboFont
+[submodule "RoboFont"]
+	path = RoboFont
+	url = https://github.com/typedev/RoboFont
+[submodule "loicsander"]
+	path = loicsander
+	url = https://github.com/loicsander/Robofont-scripts
+[submodule "sansplomb"]
+	path = sansplomb
+	url = https://github.com/sansplomb/RobofontTools
+[submodule "typemytype"]
+	path = typemytype
+	url = https://github.com/typemytype/RoboFontExtensions
+[submodule "charlesmchen"]
+	path = charlesmchen
+	url = https://github.com/charlesmchen/typefacet-robofont
+[submodule "adobe-type-tools"]
+	path = adobe-type-tools
+	url = https://github.com/adobe-type-tools/robofont-scripts
+[submodule "FontBureau"]
+	path = FontBureau
+	url = https://github.com/FontBureau/fbOpenTools
+[submodule "casasin"]
+	path = casasin
+	url = https://github.com/casasin/RobofontTools
+[submodule "asaumierdemers"]
+	path = asaumierdemers
+	url = https://github.com/asaumierdemers/cabRoboFontScripts
+[submodule "luke-snider"]
+	path = luke-snider
+	url = https://github.com/luke-snider/robofont-basic-py-scripts
+[submodule "typeDev"]
+	path = typeDev
+	url = https://github.com/typedev/RoboFont
+[submodule "stuff"]
+	path = stuff
+	url = https://github.com/quitequinn/Robofab-tools
