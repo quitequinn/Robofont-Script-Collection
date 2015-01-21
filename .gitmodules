@@ -37,6 +37,3 @@
 [submodule "typeDev"]
 	path = typeDev
 	url = https://github.com/typedev/RoboFont
-[submodule "stuff"]
-	path = stuff
-	url = https://github.com/quitequinn/Robofab-tools
