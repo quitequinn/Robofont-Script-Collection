@@ -4,9 +4,6 @@
 [submodule "jenskutilek"]
 	path = jenskutilek
 	url = https://github.com/jenskutilek/RoboFont
-[submodule "RoboFont"]
-	path = RoboFont
-	url = https://github.com/typedev/RoboFont
 [submodule "loicsander"]
 	path = loicsander
 	url = https://github.com/loicsander/Robofont-scripts
@@ -37,6 +34,6 @@
 [submodule "typeDev"]
 	path = typeDev
 	url = https://github.com/typedev/RoboFont
-[submodule "Quinn"]
-	path = Quinn
+[submodule "QuiteType"]
+	path = QuiteType
 	url = https://github.com/quitequinn/Robofab-tools
