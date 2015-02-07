@@ -31,9 +31,9 @@
 [submodule "luke-snider"]
 	path = luke-snider
 	url = https://github.com/luke-snider/robofont-basic-py-scripts
-[submodule "typeDev"]
-	path = typeDev
-	url = https://github.com/typedev/RoboFont
 [submodule "QuiteType"]
 	path = QuiteType
 	url = https://github.com/quitequinn/Robofab-tools
+[submodule "typeDev"]
+	path = typeDev
+	url = https://github.com/typedev/RoboFont
